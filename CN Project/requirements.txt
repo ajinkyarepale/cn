@@ -1,0 +1,11 @@
+# Simulation of Autonomous Drone Swarm Communication Using Computer Networks
+#
+# The graphical user interface uses tkinter, which ships with Python and
+# therefore does not have to be listed here.
+#
+# Install with:  pip install -r requirements.txt
+
+networkx>=3.0        # network topology, connected components, BFS route discovery
+matplotlib>=3.5      # performance charts
+pandas>=1.5          # data analysis and CSV export
+pytest>=7.0          # automated testing
